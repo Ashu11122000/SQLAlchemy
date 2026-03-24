@@ -1,4 +1,4 @@
-# 🚀 FastAPI + SQLAlchemy + Alembic Todo Application
+# FastAPI + SQLAlchemy + Alembic Todo Application
 
 ## Task Overview
 
@@ -274,13 +274,13 @@ uvicorn app.main:app --reload
 
 ## Features
 
-✔️ CRUD operations
-✔️ Filtering
-✔️ Pagination
-✔️ Sorting
-✔️ JOIN queries
-✔️ Relationship handling
-✔️ Migration system
+* CRUD operations
+* Filtering
+* Pagination
+* Sorting
+* JOIN queries
+* Relationship handling
+* Migration system
 
 ---
 
